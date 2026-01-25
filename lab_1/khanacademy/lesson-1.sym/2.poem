@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chalenge write a poem</title>
-
-</head>
-<body>
-    <p>
-        Hello, its my poem<br>
-        Its very simple poem<br>
-        Let's just enjoy<br>
-    </p>
-</body>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>Oyan Kazakh</h1>
+        <p>
+        Kozindi ash <br>
+        Oyan Kazakh <br>
+        Koter basty <br>
+        </p>
+    </body>
 </html>
